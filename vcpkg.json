@@ -1,0 +1,15 @@
+{
+  "name": "envelope",
+  "version-string": "0.1",
+  "dependencies": [
+    {
+      "name": "cgal",
+      "version>=": "5.5"
+    },
+    {
+      "name": "nlohmann-json",
+      "version>=": "3.11.2"
+    }
+  ],
+  "builtin-baseline": "50a4aa2be9c05e16d34c98369a8e1dd01796c3f0"
+}
